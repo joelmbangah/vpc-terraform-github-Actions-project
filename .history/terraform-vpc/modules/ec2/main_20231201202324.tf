@@ -1,0 +1,1 @@
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance#:~:text=resource%20%22aws_instance%22%20%22web%22%20%7B%0A%20%20ami%20%20%20%20%20%20%20%20%20%20%20%3D%20data.aws_ami.u

@@ -1,0 +1,1 @@
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance#:~:text=resource%20%22aws_instance%22%20%22web%22%20%7B%0A%20%20ami%20%20%20%20%20%20%20%20%20%20%20%3D%20data.aws_ami.ubuntu.id%0A%20%20instance_type%20%3D%20%22t3.micro%22%0A%0A%20%20tags%20%3D%20%7B%0A%20%20%20%20Name%20%3D%20%22HelloWorld%22%0A%20%20%7D%0A%7D

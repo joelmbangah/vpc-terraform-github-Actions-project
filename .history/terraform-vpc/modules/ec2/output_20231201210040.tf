@@ -1,0 +1,4 @@
+output "instances" {
+    value = aw
+  
+}
