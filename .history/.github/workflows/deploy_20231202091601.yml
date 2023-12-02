@@ -1,0 +1,13 @@
+name: Terraform CI CD Pipeline for Deploying AWS LogicalID:
+  Type: AWS::ResourceGroups::Group
+  Properties:
+    Configuration: 
+      Configuration
+    Description: "String"
+    Name: "String" # Required
+    ResourceQuery:
+      Type: "String"
+    Resources: 
+      Resources
+    Tags: 
+      Tags
